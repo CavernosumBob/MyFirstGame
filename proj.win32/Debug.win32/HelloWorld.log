@@ -1,0 +1,6 @@
+﻿  HelloWorldScene.cpp
+d:\project\helloworld\classes\helloworldscene.cpp(85): warning C4996: 'cocos2d::Director::sharedDirector': 被声明为已否决
+  d:\project\helloworld\cocos2d\cocos\base\ccdirector.h(135): note: 参见“cocos2d::Director::sharedDirector”的声明
+  HelloWorld.vcxproj -> D:\project\HelloWorld\proj.win32\Debug.win32\HelloWorld.exe
+  HelloWorld.vcxproj -> D:\project\HelloWorld\proj.win32\Debug.win32\HelloWorld.pdb (Full PDB)
+  复制了 0 个文件
